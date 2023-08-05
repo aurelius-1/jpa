@@ -16,7 +16,7 @@ public class Product {
 
     @Basic(optional = false)
     private String name;
-//    private double price;
+//    /private double price;
 
 //    @Column(name = "expiration_date")
 //    private LocalDate expirationDate;
